@@ -1,8 +1,4 @@
 class Animal:
-    # name = "Burek"
-    # species = "Dog"
-    # legs_count = 4
-
     def __init__(self, species, name, legs):
         self.species = species
         self.name = name
