@@ -33,3 +33,20 @@ Chapter 24 - ***args** (Shows how to pass *args to function)
 Chapter 25 - ****kwargs** (Shows how to pass *kwargs to function)  
 Chapter 26 - **Exceptions** (Shows how work with exceptions)  
 Chapter 27 - **Modules** (Shows basics of module concept)  
+
+Chapter 28 - **OOP** (Basics of Object-Oriented Programing)  
+Chapter 29 - **Class Variables** (Shows how works variables in class scope)  
+Chapter 30 - **Inheritance** (Simple examples of inheritance)  
+
+Chapter 31 - **Multi Inheritance** (Shows example of multi inheritance)  
+Chapter 32 - **Multiple Inheritance** (Shows example of multiple inheritance)  
+Chapter 33 - **Method Overriding** (Shows how works method overriding)  
+
+Chapter 34 - **Method Chaining** (Shows example of method chaining)  
+Chapter 35 - **Super Function** (Shows how works super function)  
+Chapter 36 - **Abstract Classes** (Shows what is abstract class)  
+
+Chapter 37 - **Object As Argument** (Shows how to pass object as method argument)  
+Chapter 38 - **Values Operator** (Shows how  to use value operator)  
+Chapter 39 - **Functions To Variables** (Simple example of functions to variables)  
+Chapter 40 - **Higher Order Functions** (Shows idea of higher order functions)  
