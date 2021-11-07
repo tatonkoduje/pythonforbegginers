@@ -50,3 +50,4 @@ Chapter 37 - **Object As Argument** (Shows how to pass object as method argument
 Chapter 38 - **Values Operator** (Shows how  to use value operator)  
 Chapter 39 - **Functions To Variables** (Simple example of functions to variables)  
 Chapter 40 - **Higher Order Functions** (Shows idea of higher order functions)  
+Chapter 41 - **Duck Type** (Shows duck type concept in Python)
