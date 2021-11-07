@@ -32,23 +32,27 @@ Chapter 23 - **Variable Scope** (Shows variable scopes)
 Chapter 24 - ***args** (Shows how to pass *args to function)  
 Chapter 25 - ****kwargs** (Shows how to pass *kwargs to function)  
 Chapter 26 - **Exceptions** (Shows how work with exceptions)  
-Chapter 27 - **Modules** (Shows basics of module concept)  
-
+Chapter 27 - **Modules** (Shows basics of module concept)
 Chapter 28 - **OOP** (Basics of Object-Oriented Programing)  
 Chapter 29 - **Class Variables** (Shows how works variables in class scope)  
-Chapter 30 - **Inheritance** (Simple examples of inheritance)  
-
+Chapter 30 - **Inheritance** (Simple examples of inheritance)
 Chapter 31 - **Multi Inheritance** (Shows example of multi inheritance)  
 Chapter 32 - **Multiple Inheritance** (Shows example of multiple inheritance)  
-Chapter 33 - **Method Overriding** (Shows how works method overriding)  
-
+Chapter 33 - **Method Overriding** (Shows how works method overriding)
 Chapter 34 - **Method Chaining** (Shows example of method chaining)  
 Chapter 35 - **Super Function** (Shows how works super function)  
-Chapter 36 - **Abstract Classes** (Shows what is abstract class)  
-
+Chapter 36 - **Abstract Classes** (Shows what is abstract class)
 Chapter 37 - **Object As Argument** (Shows how to pass object as method argument)  
 Chapter 38 - **Duck Type** (Shows duck type concept in Python)
-
 Chapter 39 - **Values Operator** (Shows how  to use value operator)  
 Chapter 40 - **Functions To Variables** (Simple example of functions to variables)  
 Chapter 41 - **Higher Order Functions** (Shows idea of higher order functions)  
+
+Chapter 42 - **Lambda** (Shows how works lambdas in Phyton)  
+Chapter 43 - **Sort** (Shows sort function in lamda)  
+Chapter 44 - **Map** (Shows map function in lamda)  
+
+Chapter 45 - **Filter** (Shows map function in lamda)  
+Chapter 46 - **Reduce** (Shows reduce function in lamda)  
+Chapter 47 - **List Comprehensions** (Shows how works list comprehensions)  
+Chapter 48 - **Dictionary Comprehensions** (Shows how works list comprehensions)  
