@@ -47,7 +47,8 @@ Chapter 35 - **Super Function** (Shows how works super function)
 Chapter 36 - **Abstract Classes** (Shows what is abstract class)  
 
 Chapter 37 - **Object As Argument** (Shows how to pass object as method argument)  
-Chapter 38 - **Values Operator** (Shows how  to use value operator)  
-Chapter 39 - **Functions To Variables** (Simple example of functions to variables)  
-Chapter 40 - **Higher Order Functions** (Shows idea of higher order functions)  
-Chapter 41 - **Duck Type** (Shows duck type concept in Python)
+Chapter 38 - **Duck Type** (Shows duck type concept in Python)
+
+Chapter 39 - **Values Operator** (Shows how  to use value operator)  
+Chapter 40 - **Functions To Variables** (Simple example of functions to variables)  
+Chapter 41 - **Higher Order Functions** (Shows idea of higher order functions)  
