@@ -47,13 +47,15 @@ Chapter 38 - **Duck Type** (Shows duck type concept in Python)
 Chapter 39 - **Values Operator** (Shows how  to use value operator)  
 Chapter 40 - **Functions To Variables** (Simple example of functions to variables)  
 Chapter 41 - **Higher Order Functions** (Shows idea of higher order functions)  
-
 Chapter 42 - **Lambda** (Shows how works lambdas in Phyton)  
 Chapter 43 - **Sort** (Shows sort function in lamda)  
 Chapter 44 - **Map** (Shows map function in lamda)  
-
 Chapter 45 - **Filter** (Shows map function in lamda)  
 Chapter 46 - **Reduce** (Shows reduce function in lamda)  
 Chapter 47 - **List Comprehensions** (Shows how works list comprehensions)  
 Chapter 48 - **Dictionary Comprehensions** (Shows how works list comprehensions)  
-Chapter 49 - **Zip** (Shows how works zip function)
+Chapter 49 - **Zip** (Shows how works zip function)  
+
+Chapter 50 - **Threading** (Shows how works threading)  
+Chapter 51 - **Deamon Thread** (Shows what is deamon thread)  
+Chapter 52 - **Multiprocessing** (Shows how works multiprocessing)  
