@@ -57,28 +57,31 @@ Chapter 48 - **Dictionary Comprehensions** (Shows how works list comprehensions)
 Chapter 49 - **Zip** (Shows how works zip function)
 Chapter 50 - **Threading** (Shows how works threading)  
 Chapter 51 - **Deamon Thread** (Shows what is deamon thread)  
-Chapter 52 - **Multiprocessing** (Shows how works multiprocessing)  
-
+Chapter 52 - **Multiprocessing** (Shows how works multiprocessing)
 Chapter 53 - **WindowsGui** (Shows how to start with windows GUI)  
 Chapter 54 - **Labels** (Shows how to use labels )  
-Chapter 55 - **Buttons** (Shows how to use buttons)  
-
-Chapter 56 - **Entrybox** (Shows how to use entry box)  
+Chapter 55 - **Buttons** (Shows how to use buttons)
+Chapter 56 - **Entry** (Shows how to use entry)  
 Chapter 57 - **Checkbox** (Shows how to use checkoboxes)  
-Chapter 58 - **Radio Button** (Shows how to use radio buttons)  
-
+Chapter 58 - **Radio Button** (Shows how to use radio buttons)
 Chapter 59 - **Scale** (Shows how to scale)  
 Chapter 60 - **Listbox** (Shows how to use listboxes)  
-Chapter 61 - **MessageBox** (Shows how to use message boxes)  
-
+Chapter 61 - **MessageBox** (Shows how to use message boxes)
 Chapter 62 - **ColorChooser** (Shows how to create color chooser)  
 Chapter 63 - **Text Area** (Shows how to work with text area)  
-Chapter 64 - **Menu Bar** (Shows how to create menu bar)  
-
+Chapter 64 - **Menu Bar** (Shows how to create menu bar)
 Chapter 65 - **Frames** (Shows how to work with frames)  
 Chapter 66 - **New Window** (Shows how to create new window)  
-Chapter 67 - **Tabs** (Shows how to use window tabs)  
-
+Chapter 67 - **Tabs** (Shows how to use window tabs)
 Chapter 68 - **Grid** (Shows how to use grid)  
 Chapter 69 - **Progress Bar** (Shows how to create progress bar)  
 Chapter 70 - **Canvas** (Shows how to work with canvas)  
+
+Chapter 71 - **Keyboard Events** (Shows how to use keyboard events)  
+Chapter 72 - **Mouse Events** (Shows how to use mouse events)  
+Chapter 73 - **Drag&Drop** (Shows how to drag&drop object)  
+
+Chapter 74 - **Moving** (Shows how to move something on screen)  
+Chapter 75 - **Animations** (Shows how to create simple animation)  
+Chapter 76 - **Multiple Animations** (Shows how to create and hold multiple animations)  
+
