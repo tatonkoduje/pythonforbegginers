@@ -76,12 +76,16 @@ Chapter 67 - **Tabs** (Shows how to use window tabs)
 Chapter 68 - **Grid** (Shows how to use grid)  
 Chapter 69 - **Progress Bar** (Shows how to create progress bar)  
 Chapter 70 - **Canvas** (Shows how to work with canvas)  
-
 Chapter 71 - **Keyboard Events** (Shows how to use keyboard events)  
 Chapter 72 - **Mouse Events** (Shows how to use mouse events)  
 Chapter 73 - **Drag&Drop** (Shows how to drag&drop object)  
-
 Chapter 74 - **Moving** (Shows how to move something on screen)  
 Chapter 75 - **Animations** (Shows how to create simple animation)  
-Chapter 76 - **Multiple Animations** (Shows how to create and hold multiple animations)  
+
+Chapter 76 - **Exe** (Shows how to convert python program to exe)  
+Chapter 77 - **Pip** (Shows what is pip)  
+Chapter 78 - **Time Module** (Shows how to work with time module)  
+
+Chapter 79 - **Random Module** (Shows how to work with random module)  
+Chapter 80 - **Command Prompt** (Shows how to work with command prompt)  
 
