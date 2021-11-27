@@ -82,10 +82,7 @@ Chapter 73 - **Drag&Drop** (Shows how to drag&drop object)
 Chapter 74 - **Moving** (Shows how to move something on screen)  
 Chapter 75 - **Animations** (Shows how to create simple animation)  
 
-Chapter 76 - **Exe** (Shows how to convert python program to exe)  
-Chapter 77 - **Pip** (Shows what is pip)  
-Chapter 78 - **Time Module** (Shows how to work with time module)  
-
-Chapter 79 - **Random Module** (Shows how to work with random module)  
-Chapter 80 - **Command Prompt** (Shows how to work with command prompt)  
+Chapter 76 - **Pip** (Shows what is pip)  
+Chapter 77 - **Exe** (Shows how to convert python program to exe)
+Chapter 78 - **Command Prompt** (Shows how to work with command prompt)  
 
