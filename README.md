@@ -81,8 +81,16 @@ Chapter 72 - **Mouse Events** (Shows how to use mouse events)
 Chapter 73 - **Drag&Drop** (Shows how to drag&drop object)  
 Chapter 74 - **Moving** (Shows how to move something on screen)  
 Chapter 75 - **Animations** (Shows how to create simple animation)  
-
 Chapter 76 - **Pip** (Shows what is pip)  
-Chapter 77 - **Exe** (Shows how to convert python program to exe)
+Chapter 77 - **Exe** (Shows how to convert python program to exe)  
 Chapter 78 - **Command Prompt** (Shows how to work with command prompt)  
 
+Chapter 79 - **File Detection** (Shows how to detect a file)  
+Chapter 80 - *Read File** (Shows how to read file)  
+Chapter 81 - **Write a File** (Shows how save a file)  
+
+Chapter 82 - **Copy File** (Shows how to copy file)  
+Chapter 83 - **Move File** (Shows how to move file)  
+Chapter 84 - **Delete File** (Shows how to delete file)  
+
+			
