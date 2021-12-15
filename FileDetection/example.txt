@@ -1,0 +1,1 @@
+To jest przykładowy plik tekstowy!
