@@ -1,0 +1,3 @@
+To jest przykładowy plik tekstowy.
+Więc posłuży jako przykład.
+W tym przykładzie.
